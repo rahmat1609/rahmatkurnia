@@ -1,0 +1,20 @@
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: rgba(34, 20, 236, 0.192);
+}
+#project {
+  background-color: rgba(34, 20, 236, 0.192);
+}
+section {
+  padding-top: 5rem;
+}
+a {
+  color: #000203;
+}
+a:visited {
+  color: rgb(0, 0, 0);
+}
+a:hover, a:active, a:focus {
+  color:rgb(0, 0, 0);
+}
